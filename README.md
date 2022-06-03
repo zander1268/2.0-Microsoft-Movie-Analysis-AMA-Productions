@@ -55,6 +55,6 @@ Lastly, we are looking to find high impact directors that will create high impac
 ├── visualization_images
 ├── LICENSE.md
 ├── zippedData/
-└── im.db
+└── .canvas
 ```
 
