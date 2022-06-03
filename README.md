@@ -40,7 +40,7 @@ Lastly, we are looking to find high impact directors that will create high impac
   
 ## Next Steps
 
--Further examine genre and director performance produce hiring priorities for each of our proposed budget tiers
+-Further examine genre and director performance produce hiring priorities for each of our proposed budget tiers                                                          
 -Determine the best timing and placement of the film release using release dates available, as well as regions alongwith previously calculated ROI's
 
 ## Repository Structure
